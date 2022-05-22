@@ -1,0 +1,12 @@
+body {
+  margin: 0% 5%;
+  margin-bottom: 5%;
+  padding: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url('../../landing/public/bodyimage.jpeg');
+  background-repeat: no-repeat;
+  object-fit: cover;  
+  /* background-color: rgb(70, 88, 103); */
+  /* background-position: bottom; */
+}
